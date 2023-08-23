@@ -1,4 +1,4 @@
-rencana materi
-- cara kerja git
-- branch
-- fork
+rencana
+-Laravel
+-javascript
+-mysql
