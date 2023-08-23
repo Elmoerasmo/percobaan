@@ -2,3 +2,5 @@ rencana
 -laravel
 -vscode
 -react
+-javascript
+-mysql
