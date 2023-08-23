@@ -1,4 +1,4 @@
 rencana
--Laravel
+-laravel
 -javascript
 -mysql
